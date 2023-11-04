@@ -1,0 +1,1 @@
+console.log('API_URL= https://xccds.com/afvfkd?api_key' + API_KEY);
